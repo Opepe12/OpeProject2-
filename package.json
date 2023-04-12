@@ -1,0 +1,32 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.20.2",
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@material-ui/core": "4.12.4",
+    "@mui/icons-material": "5.10.14",
+    "@mui/material": "5.10.14",
+    "@mui/system": "5.10.14",
+    "@mui/x-date-pickers": "5.0.8",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "date-fns": "2.29.3",
+    "dayjs": "1.11.6",
+    "luxon": "3.1.0",
+    "moment": "2.29.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
